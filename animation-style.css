@@ -17,13 +17,9 @@
     bottom: 0;
     left: 0;
     background-color: orange;
-    overflow-y: auto;
     -webkit-animation: background-appear 0.5s;
 }
 
 #page {
-  box-sizing: border-box;
-  height: 100%;
-  margin: 0 130px;
-  position: relative;
+    position: relative;
 }
